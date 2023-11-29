@@ -2,7 +2,7 @@
 
 **Description**: 
 
-The dataset for this competition (both train and test) was generated from a deep learning model trained on a portion of the Horse Survival Dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance. The link to the Kaggle competiton is https://www.kaggle.com/competitions/playground-series-s3e22/overview. The objective of this project is to train the model to prediction outcome. THe metric is micro-averaged F1-score.
+This project come from the following Kaggle competition : https://www.kaggle.com/competitions/playground-series-s3e22/overview. The dataset for this competition (both train and test) was generated from a deep learning model trained on a portion of the Horse Survival Dataset. Feature distributions are close to, but not exactly the same, as the original. Feel free to use the original dataset as part of this competition, both to explore differences as well as to see whether incorporating the original in training improves model performance. The link to the Kaggle competiton is . The objective of this project is to train the model to prediction outcome. The metric is micro-averaged F1-score.
 
 <br>
 
